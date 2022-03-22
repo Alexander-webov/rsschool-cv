@@ -20,7 +20,7 @@
 *  (верстка email письма)
 * Основы PHP
 
-## My jobs
+## My works
 * https://alexander-webov.github.io/LP-NST/
 * https://alexander-webov.github.io/lp-Partnertax/
 * https://alexander-webov.github.io/lp-advertising/
